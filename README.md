@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a third year student at MIT studying artifical intelligence and decision making and urban policy. And, I'm a software engineer and aspiring tech entrepreneur interested in AGI, climate tech. deep tech, consumer tech, and robotics. 
+I'm a third year student at MIT studying artifical intelligence and decision making and urban policy. And, I'm a software engineer and aspiring tech entrepreneur interested in AGI, climate tech, deep tech, consumer tech, and robotics. 
 
 
 ## Right now, I'm excited to be working on:
