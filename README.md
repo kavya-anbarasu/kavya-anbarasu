@@ -23,9 +23,9 @@ I'm a third year student at MIT studying artifical intelligence and decision mak
 - A windmill! ([GAIA](https://www.gaiacompetition.com/competition))
 
 ## In the (Recent) Past, I've been a:
-- Software Engineering Intern at Plaid (2023)
-- Robotics Intern at Neuralink (2022)
-- Computer Vision Intern at Matician (2021)
+- Software Engineering Intern at [Plaid](https://plaid.com/) (2023)
+- Robotics Intern at [Neuralink](https://neuralink.com/) (2022)
+- Computer Vision Intern at [Matic](https://maticrobots.com/) (2021)
 
 ## Skills
 - Languages: Python, Rust, Go, JavaScript, Java, HTML/CSS, SQL
