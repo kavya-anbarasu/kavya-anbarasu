@@ -30,6 +30,6 @@ I'm a third year student at MIT studying artifical intelligence and decision mak
 ## Skills
 - Languages: Python, Rust, Go, JavaScript, Java, HTML/CSS, SQL
 - Frameworks: PyTorch, Scikit-learn, OpenCV, React.js, Node.js, SwiftUI, React Native, MongoDB, PostgreSQL
-- Developer Tools: XCode, GitHub, AWS, Google Cloud Platform, Firebase, Docker, VS Code
+- Developer Tools: Docker, GitHub, AWS, Google Cloud Platform, VS Code
 
 Head to [personal website] to learn more about what I'm working on! And please reach out at kavyaa@mit.edu!
