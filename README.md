@@ -19,7 +19,7 @@ I'm a third year student at MIT studying artifical intelligence and decision mak
 
 
 ## Right now, I'm excited to be working on:
-- [Structify!](https://structify.ai/)
+- [Structify](https://structify.ai/)!
 - A windmill! ([GAIA](https://www.gaiacompetition.com/competition))
 
 ## In the (Recent) Past, I've been a:
